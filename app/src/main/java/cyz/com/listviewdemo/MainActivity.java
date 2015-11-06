@@ -21,14 +21,15 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-package cyz.com.listviewdemo.swipe;
+package cyz.com.listviewdemo;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import cyz.com.listviewdemo.R;
+import cyz.com.listviewdemo.swipe.DifferentMenuActivity;
+import cyz.com.listviewdemo.swipe.SimpleActivity;
 
 /**
  * SwipeMenuListView
